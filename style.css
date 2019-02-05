@@ -1,0 +1,330 @@
+@media (max-width:700px){
+    .imageCd{
+        display:none;
+    }
+    .logopayer{
+        display: none;
+    }
+
+    .img1,.img2,.img3{
+        display: inline-block;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .presentationpage{
+        text-align: center;
+        float: none;
+        display: block;
+        margin-bottom:auto;
+    }
+    .imageDvd{
+        margin: auto;
+        height: 400px!important;
+        margin-bottom: 30px;
+        align-content: center;
+    }
+    .bonus,.ancienprix{
+        display: none;
+    }
+    .textcadre{
+        display: none;
+    }
+    .boutonachat{
+        display: none!important;
+    }
+    .imageetprix h1{
+        display: none!important;
+    }
+    .nvprix{
+        display: none;
+    }
+    .imageetprix,.resume,.promo{
+        display: inline-block;
+    }
+}
+
+@media (max-width:1100px){
+    .imageCd{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .logopayer{
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+
+    .img1,.img2,.img3{
+        display: inline-block;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .presentationpage{
+        text-align: center;
+        float: none;
+        display: block;
+        margin-bottom:auto;
+    }
+    .imageDvd{
+        margin: auto;
+        height: 400px!important;
+        margin-bottom: 30px;
+    }
+    .bonus,.ancienprix{
+        display: none;
+    }
+    .textcadre{
+        display: none;
+    }
+    .boutonachat{
+        display: none!important;
+    }
+    .imageetprix h1{
+        display: none!important;
+    }
+    .nvprix{
+        display: none;
+    }
+    .imageetprix,.resume,.promo{
+        display: inline-block;
+    }
+    
+}
+
+@media(min-width:1024px){
+    .imageCd{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .logopayer{
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+
+    .img1,.img2{
+        float: left;
+        margin-left: 20px;
+        margin-right: 78px;
+    }
+    .img3{
+        float: left;
+        margin-left: 20px;
+    }
+    .presentationpage{
+        text-align: center;
+        float: none;
+        display: block;
+        margin-bottom:450px;
+    }
+    .imageDvd{
+        float: left;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        height: 400px!important;
+    }
+    .bonus,.ancienprix{
+        text-align: center;
+        font-size: 1.7em;
+        color: #424242;
+    }
+    .textcadre{
+        text-align: center;
+        font-size: 3.5em;
+        display: block;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        color: #0277BD;
+        opacity: 0.8;
+    }
+    .boutonachat{
+        background-color: #0277BD!important;
+        border: none!important;
+        width: 200px!important;
+        align-content: center;
+    }
+    .nvprix{
+        text-align: center;
+        font-size: 3.5em;
+        display: block;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        color: #0277BD;
+        opacity: 0.8;
+    }
+    
+    .promo{
+        margin-top: 40px;
+        display: block;
+        padding-top: 130px;
+    }
+}
+
+
+.entree{
+    width: 300px!important;
+}
+.trouve{
+    color: #01579B!important;
+}
+.lesseries{
+    float: none;
+    margin-top: 30px;
+    display: block;
+}
+.imageetprix{
+    display: block;
+    text-align: center;
+    padding-top:20px; 
+    margin-bottom: 100px;
+}
+.container, .container-fluid{
+    font-family: Georgia, 'Times New Roman', Times, serif!important;
+    background-color: white!important;
+    min-height: 100%;
+}
+
+
+.resume{
+    display: block;
+    text-align: justify;
+    float: right;
+    text-indent: 50px;
+    font-size: 1.4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.savoir{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    float: left;
+    font-size: 1.4em;
+}
+
+.partieresume{
+    display: block;
+}
+.pagecontact{
+    text-align: center;
+    margin-top: 20px;
+    float: none;
+    display: block;
+    margin-bottom: 243px;
+}
+.pagecontact h2{
+    text-align: center;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:  rgb(1, 88, 155);
+    opacity: 0.8;
+}
+.presentationpage h2{ 
+    text-align: center;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:  rgb(1, 88, 155);
+    opacity: 0.8;
+}
+
+em{
+    font-weight: bold;
+    text-decoration: none;
+    float: left;
+}
+
+barre{
+    text-decoration: line-through;
+}
+
+.boutonenvoi{
+    background-color: #0277BD!important;
+    border: none!important;
+    width: 200px!important;
+    align-content: center;
+}
+.boutonenvoi{
+    margin-top: 30px;
+}
+
+.promo2{
+    margin-top: 40px;
+    display: block;
+    padding-top: 400px;
+}
+.imgpromo,.imageDvd{
+    border: 5px ridge;
+    border-color: #01579B;
+    -webkit-box-shadow: -7px 6px 15px #333; 
+    -moz-box-shadow: -7px 6px 15px #333;
+    margin-top: 25px;
+}
+.slide{
+    border: 5px ridge;
+    border-color: #01579B;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.promo p, .promo2 p{
+    text-align: center;
+}
+.occasion{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #01579B;
+    opacity: 0.7;
+}
+
+.titreapropos{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #01579B;
+    opacity: 0.7;
+    text-align: center;
+}
+.apropos{
+    text-align: justify;
+    text-indent: 40px;
+}
+
+.textpied{
+    text-align: center;
+    padding-top: 60px;
+}
+.pied{
+    display: block;
+    background-color: rgba(1, 88, 155, 0.473)!important;
+    min-height: 120px;
+    opacity: 0.8;
+    margin-top: 30px;
+    overflow: auto;
+    min-width: 100%;
+}
+.boutonregard{
+    background-color: #0277BD!important;
+    border: none!important;
+    width: 200px!important;
+    align-content: center;
+}
+.conteneurapropos{
+    margin-bottom: 390px;
+}
+#message{
+    height: 200px;
+    margin-top: 30px;
+    resize: none;
+}
+#email{
+    margin-top: 30px;
+}
+.row{
+    margin-top: 30px;
+}
+form{
+    margin-bottom:529px;
+    margin-top:30px;
+    align-content: center;
+}   
+.deco{
+    margin-top: 30px;
+    margin-bottom: 690px;
+}
